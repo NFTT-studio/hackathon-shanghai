@@ -21,7 +21,7 @@ NFT is the only way for blockchain to change the mode of production. The main go
 
 ## The name of the project and its category are
 
-**Name:** A Professional NFT DEX (www.guapfei.io)
+**Name:** A Professional NFT DEX (www.nftmart.io)
 
 **Category:** Decentralized market chain (parachain + independent chain)
 
@@ -61,7 +61,7 @@ NFT是区块链改变生产方式的必经之路，我们这个项目的主要�
 
 ## 参赛项目名称和所属参赛类别是
 
-**名称:**  A Professional NFT DEX  ( www.guapfei.io )
+**名称:**  A Professional NFT DEX  ( www.nftmart.io )
 
 **类别:**  去中心化市场链 (平行链 + 独立链)
 
